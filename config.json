@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfecrypt",
+        "uuid": 19607124,
+        "checksum": "6t8nef"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
